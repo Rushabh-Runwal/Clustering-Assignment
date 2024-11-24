@@ -8,15 +8,15 @@ This repository contains the implementation of various clustering algorithms as 
 - [YouTube Tutorial](#youtube-tutorials)
 
 ## Table of Contents
-1. [K-Means Clustering](#k-means-clustering)
-2. [Hierarchical Clustering](#hierarchical-clustering)
-3. [Gaussian Mixture Models Clustering](#gaussian-mixture-models-clustering)
-4. [DBSCAN Clustering using PyCaret](#dbscan-clustering-using-pycaret)
-5. [Anomaly Detection using PyOD](#anomaly-detection-using-pyod)
-6. [Time Series Clustering using Pre-Trained Models](#time-series-clustering-using-pre-trained-models)
-7. [Document Clustering with LLM Embeddings](#document-clustering-with-llm-embeddings)
-8. [Image Clustering using ImageBind LLM Embeddings](#image-clustering-using-imagebind-llm-embeddings)
-9. [Audio Clustering using ImageBind LLM Embeddings](#audio-clustering-using-imagebind-llm-embeddings)
+1. [K-Means Clustering]: https://colab.research.google.com/drive/13lnCxYp5qhCHQZQ-NRFzmhza6v_GG6Ae?usp=sharing
+2. [Hierarchical Clustering]: https://colab.research.google.com/drive/1KdO7BnjS61OL4jWeQPK3yq5iTAbKXbfR?usp=sharing
+3. [Gaussian Mixture Models Clustering]: https://colab.research.google.com/drive/1jDgsroIpxJvbNi2gowjY13DRBrJZ_7zT?usp=sharing
+4. [DBSCAN Clustering using PyCaret]: https://colab.research.google.com/drive/1bS2K_6V-5PlaG7hu633Z7YqAEDaurCqD?usp=sharing
+5. [Anomaly Detection using PyOD]: https://colab.research.google.com/drive/1IA2xFGH9RVZX32hNJXXI_MbgCEpmQu7I?usp=sharing
+6. [Time Series Clustering using Pre-Trained Models]: https://colab.research.google.com/drive/1rHB66M9abDPlVmhNNGhJIOKlcIU8QdXz?usp=sharing
+7. [Document Clustering with LLM Embeddings]: https://colab.research.google.com/drive/1XfHLKsyzfRqHx-TBgQngoJcpwlovoC2Y?usp=sharing
+8. [Image Clustering using ImageBind LLM Embeddings]: https://colab.research.google.com/drive/1IcMH50Lgsb7GPk5DtYB_K3mlDt5t0IL-?usp=sharing
+9. [Audio Clustering using ImageBind LLM Embeddings]: https://colab.research.google.com/drive/1di_Cp5WZkJqlJBxGgvQtH6bOx3NMlxnO?usp=sharing
 
 ---
 
