@@ -8,7 +8,7 @@ This repository contains the implementation of various clustering algorithms as 
 - [YouTube Tutorial](#youtube-tutorials)
 
 ## Table of Contents
-1. [K-Means Clustering]: (https://colab.research.google.com/drive/13lnCxYp5qhCHQZQ-NRFzmhza6v_GG6Ae?usp=sharing)
+1. [K-Means Clustering]: [https://colab.research.google.com/drive/13lnCxYp5qhCHQZQ-NRFzmhza6v_GG6Ae?usp=sharing]
 2. [Hierarchical Clustering]: (https://colab.research.google.com/drive/1KdO7BnjS61OL4jWeQPK3yq5iTAbKXbfR?usp=sharing)
 3. [Gaussian Mixture Models Clustering]: (https://colab.research.google.com/drive/1jDgsroIpxJvbNi2gowjY13DRBrJZ_7zT?usp=sharing)
 4. [DBSCAN Clustering using PyCaret]: (https://colab.research.google.com/drive/1bS2K_6V-5PlaG7hu633Z7YqAEDaurCqD?usp=sharing)
