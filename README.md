@@ -4,8 +4,7 @@ This repository contains the implementation of various clustering algorithms as 
 
 ---
 ## Youtube Video
-- [YouTube Tutorial](#youtube-tutorials)
-- [YouTube Tutorial](#youtube-tutorials)
+- [YouTube Tutorial](https://youtu.be/4Tj5SpP0Z6o)
 
 ## Table of Contents
 1. [K-Means Clustering](https://colab.research.google.com/drive/13lnCxYp5qhCHQZQ-NRFzmhza6v_GG6Ae?usp=sharing)
